@@ -4,7 +4,7 @@ import Form from "../../components/shared/form/Form";
 const Login = () => {
   return (
     <>
-      <div className="row">
+      <div className="row g-0">
         <div className="col-md-8 form-banner">
           <img src="./assets/images/banner.jpg" alt="Login" />
         </div>
